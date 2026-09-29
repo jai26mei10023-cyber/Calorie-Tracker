@@ -46,7 +46,3 @@ Each person can make their own account, log their meals, and see a daily summary
 5. Choose **View Today's Summary** and check the numbers match what you logged.
 6. Log out and log back in again to make sure your data was saved.
 7. Try typing something odd/different or leaving it blank to see how the program handles errors.
-
-<img width="865" height="403" alt="Screenshot 2026-09-27 203242" src="https://github.com/user-attachments/assets/45bd61cf-9995-47cd-a8d7-dad6fac47a9f" />
-<img width="871" height="572" alt="Screenshot 2026-09-27 203214" src="https://github.com/user-attachments/assets/035c2f35-761a-411e-b7ae-1c62b052bd5f" />
-<img width="812" height="106" alt="Screenshot 2026-09-27 203142" src="https://github.com/user-attachments/assets/c22fb96e-1456-4a34-8b21-f1f06922a65d" />
