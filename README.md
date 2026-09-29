@@ -8,11 +8,11 @@ Everyone can make their own account, track their meals and get a daily summary s
 
 ## Features
 
-**User accounts** — you can set up a username and password and log in at a later date. Passwords are saved securely. 
-**AI Food Logging** -- Describe what you ate in English and the API prompts Gemini to estimate nutrition for you.
-**Daily totals** — Each food you log is added to a running total for the day.
-**Daily summary** see your calories, protein, fat and sugar for the day, next to the standard recommended daily amount (RDA), with a percentage of how close you are.
-**Saved history** -- your logs are saved in a file, so they are saved to the next time you run the code
+**User accounts** - you can set up a username and password and log in at a later date. Passwords are saved securely. 
+**AI Food Logging** - Describe what you ate in English and the API prompts Gemini to estimate nutrition for you.
+**Daily totals** - Each food you log is added to a running total for the day.
+**Daily summary** - see your calories, protein, fat and sugar for the day, next to the standard recommended daily amount (RDA), with a percentage of how close you are.
+**Saved history** - your logs are saved in a file, so they are saved to the next time you run the code
 
 ## Technologies used
 
