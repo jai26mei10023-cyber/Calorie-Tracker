@@ -46,3 +46,9 @@ python VIT.py
 5. Select **View Today’s Summary** and make sure the numbers match.
 6. Log out and log back in. Check whether the data was saved.
 7. Use unusual input or leave it blank and see if it can handle errors.
+
+## Screenshots
+
+<img width="865" height="403" alt="Screenshot 2026-09-27 203242" src="https://github.com/user-attachments/assets/a27b3d7f-b92d-4e21-9127-d5f27ad775ec" />
+<img width="871" height="572" alt="Screenshot 2026-09-27 203214" src="https://github.com/user-attachments/assets/2675dcdd-1dde-4d79-ac00-f8e699be5ff7" />
+<img width="812" height="106" alt="Screenshot 2026-09-27 203142" src="https://github.com/user-attachments/assets/bdac2c75-cd3c-4361-ad3d-9d6810b91335" />
