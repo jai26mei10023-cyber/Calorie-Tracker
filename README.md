@@ -49,6 +49,23 @@ python VIT.py
 
 ## Screenshots
 
-<img width="812" height="106" alt="Screenshot 2026-09-27 203142" src="https://github.com/user-attachments/assets/bdac2c75-cd3c-4361-ad3d-9d6810b91335" />
-<img width="871" height="572" alt="Screenshot 2026-09-27 203214" src="https://github.com/user-attachments/assets/2675dcdd-1dde-4d79-ac00-f8e699be5ff7" />
-<img width="865" height="403" alt="Screenshot 2026-09-27 203242" src="https://github.com/user-attachments/assets/a27b3d7f-b92d-4e21-9127-d5f27ad775ec" />
+Test Successful:
+<img width="517" height="85" alt="Screenshot 2026-09-30 195709" src="https://github.com/user-attachments/assets/f03411bb-e09e-4ca3-bf07-8cd4ed16f452" />
+
+Invalid User:
+<img width="1094" height="156" alt="Screenshot 2026-09-30 212922" src="https://github.com/user-attachments/assets/8731cffe-c391-4610-89e9-20b022a73af3" />
+
+User Registered:
+<img width="1124" height="110" alt="Screenshot 2026-09-30 213108" src="https://github.com/user-attachments/assets/6c9c0de9-13ff-4f21-bfbf-4f4bd11f0b0d" />
+
+Calories Tracked:
+<img width="1131" height="242" alt="Screenshot 2026-09-30 213142" src="https://github.com/user-attachments/assets/99396b33-fd46-48f0-b6db-fea9e5e7c2d8" />
+
+Invalid Input:
+<img width="1142" height="86" alt="Screenshot 2026-09-30 213230" src="https://github.com/user-attachments/assets/ba5edcf7-e5fe-45da-9b18-7ca62ebd921c" />
+
+Food Summary:
+<img width="1122" height="136" alt="Screenshot 2026-09-30 213254" src="https://github.com/user-attachments/assets/a38c19cb-8b36-4d91-af16-30136f31bf24" />
+
+Logout & Exit:
+<img width="1115" height="128" alt="Screenshot 2026-09-30 213420" src="https://github.com/user-attachments/assets/7ee137b3-f0bf-4c9e-9279-bafa7913d78e" />
