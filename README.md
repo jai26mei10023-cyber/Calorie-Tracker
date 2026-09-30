@@ -50,6 +50,7 @@ python VIT.py
 ## Screenshots
 
 Test Successful:
+
 <img width="517" height="85" alt="Screenshot 2026-09-30 195709" src="https://github.com/user-attachments/assets/f03411bb-e09e-4ca3-bf07-8cd4ed16f452" />
 
 Invalid User:
